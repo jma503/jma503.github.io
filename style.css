@@ -1,1 +1,16 @@
+body {
+  background-color: #f0f0f0;
+  color: #3c3c3c;
+  font-family: times new roman;
+  margin: 10% 10%; 
+}
 
+.top-section { 
+  background-color: #616161;
+  color: white;
+  img {border-radius: 50%}
+}
+
+.exp-header {
+  text-transform: uppercase;
+}
