@@ -30,3 +30,8 @@ img {
 .exp-header {
   text-transform: uppercase
 }
+
+.center {
+    list-style-position: inside;
+    padding-left: 0;
+}
